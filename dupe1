@@ -1,0 +1,3 @@
+function Dupe1()
+        do
+          game:GetService("ReplicatedStorage").LoadSaveRequests.RequestLoad:InvokeServer(1,game:GetService("Players").LocalPlayer) 
