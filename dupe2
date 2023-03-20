@@ -1,0 +1,3 @@
+
+
+game:GetService("ReplicatedStorage").LoadSaveRequests.RequestLoad:InvokeServer(2,game:GetService("Players").LocalPlayer)
