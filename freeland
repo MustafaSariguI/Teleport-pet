@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").PropertyPurchasing.ClientPurchasedProperty:FireServer(workspace.Properties.Property)
